@@ -1,2 +1,2 @@
 # Python-Hangman-Game
-A hangman game created in Python
+A hangman game created in Python.
